@@ -1,3 +1,4 @@
+![banner3_f33dd817-79cb-433d-936e-323da8334657](https://user-images.githubusercontent.com/88071912/130067095-dfbddb34-ddc9-4e18-ad9d-867aed2002b7.jpg)
 ### Hi there 👋
 I am Professional Front-End developer.
 ⭐⭐⭐⭐⭐ 5-Stars Rating for all of my Projects.
@@ -11,7 +12,7 @@ So, this list will be uniformly updated as I never stop learning.
 ⚡HTML/HTML5
 ⚡CSS/CSS
 ⚡SASS/SCSS Preprocessor
-⚡Responsive Web Design.
+⚡Responsive Web Design
 ⚡JAVASCRIPT/ES6
 ⚡APIs/JSON/AJAX
 ⚡GITHUB

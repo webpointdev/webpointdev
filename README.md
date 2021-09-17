@@ -1,4 +1,5 @@
 ![banner3_f33dd817-79cb-433d-936e-323da8334657](https://user-images.githubusercontent.com/88071912/130067095-dfbddb34-ddc9-4e18-ad9d-867aed2002b7.jpg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=Hello+I+am+BlueSpider.;I+am+a+seasoned+web+developer.;Welcome+to+visit+my+profile.)](https://git.io/typing-svg)
 ### Hi there 👋
 I am Professional Front-End developer.
 ⭐⭐⭐⭐⭐ 5-Stars Rating for all of my Projects.
@@ -29,4 +30,10 @@ Close contact with you is very important for me, to avoid misunderstandings in t
 Courage, It's not too late to build a better world.
 Alone we can do so little; together we can do so much.
 👯Let's go together!👯</br>
+<div align="center">
 <img src = "https://github-readme-stats.vercel.app/api?username=webpointdev&show_icons=true&count_private=true&theme=prussian&line_height=32">
+  </br>
+  </br>
+  </br>
+<img src="https://github-profile-trophy.vercel.app/?username=webpointdev"/>
+ </div>

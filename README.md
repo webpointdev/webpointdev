@@ -32,8 +32,9 @@ Alone we can do so little; together we can do so much.
 👯Let's go together!👯</br>
 <div align="center">
 <img src = "https://github-readme-stats.vercel.app/api?username=webpointdev&show_icons=true&count_private=true&theme=prussian&line_height=32">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=WebPointDev&theme=neon-dark&fire=DD2727&sideLabels=0ADD00&dates=00D1DD">
   </br>
   </br>
   </br>
-<img src="https://github-profile-trophy.vercel.app/?username=webpointdev"/>
+<img src="https://github-profile-trophy.vercel.app/?username=webpointdev&theme=monokai"/>
  </div>

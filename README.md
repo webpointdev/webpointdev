@@ -16,14 +16,12 @@
 <h4 align="center">👯Let's make "Success" Together!👯</h4><br>
 🤔 The way a page appears and the design of the website that users see and interact with may make your business fall or grow!
 Enthusiastic Front-End Developer who loves to create effective websites and work with businesses to help them grow.
-<hr>
 <br>
 <h4 align="center">🔥 My skills 🔥</h4>
+<hr>
 <br>
 <p>💬I consider myself a person who follows modern web development practices and new technologies.</p>
-<br>
 <p>So, this list will be uniformly updated as I never stop learning.</p>
-<br>
 <br>
 
 ![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
@@ -63,9 +61,10 @@ Enthusiastic Front-End Developer who loves to create effective websites and work
 <hr>
 <br>
 <h4 align="center">🔥 Personal Qualities 🔥</h4>
+<hr>
 <br>
 <div>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="50%" />
 ⚡A clean responsive code that will be well displayed in any browser and adapted to any device of any resolution, be it a phone or a tablet, or a widescreen device.<br>
 ⚡Fast response and good communication skills.<br>
 ⚡well-organized/commented code.<br>
@@ -78,49 +77,12 @@ Courage, It's not too late to build a better world.
 Alone we can do so little; together we can do so much.    
 </p>
 </div>
-<h4 align="center">🔥 👯Let's go together!👯 🔥</h4>
+<h4 align="center"> 👯Let's go together!👯 </h4>
+<hr>
 <br>
 
- 
-[![](https://img.shields.io/badge/Windows-11-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-us/windows/windows-11)
-[![](https://img.shields.io/badge/macOS-Big%20Sur-e94256?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur/)
-[![](https://img.shields.io/badge/Ubuntu-20.04-E95420?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/)
-[![](https://img.shields.io/badge/NAS-FreeNas-AB2B28?style=flat-square&logo=freebsd&logoColor=ffffff)](https://www.freenas.org/)
-
-[![](https://img.shields.io/badge/Browser-Firefox-FF7139?style=flat-square&logo=firefox&logoColor=ffffff)](https://www.mozilla.org/firefox/)
-[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=ffffff)](https://code.visualstudio.com/)
-[![](https://img.shields.io/badge/IDE-Rider-000000?style=flat-square&logo=JetBrains&logoColor=ffffff)](https://www.jetbrains.com/rider/)
-
-[![](https://img.shields.io/badge/iPhone-000?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/iphone/)
-[![](https://img.shields.io/badge/Nintendo%20Switch-E95420?style=flat-square&logo=Nintendo-Switch&logoColor=ffffff)](https://www.nintendo.com/switch/)
-
-[![](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=ffffff)](https://reactjs.org/)
-[![](https://img.shields.io/badge/-Webpack-8dd6f9?style=flat-square&logo=webpack&logoColor=white)](https://webpack.js.org/)
-[![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
-[![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
-[![](https://img.shields.io/badge/-Python3-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
-[![](https://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=sass&logoColor=white)](https://sass-lang.com/)
-[![](https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=white)](https://npmjs.com/)
-[![](https://img.shields.io/badge/-PostCSS-dd3a0a?style=flat-square&logo=postcss&logoColor=white)](https://postcss.org/)
-[![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
-[![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
-[![](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
-[![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
-[![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
-
-![](https://img.shields.io/badge/EYHN%20❤️-FFF?style=flat-square)
-![](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=C-Sharp&logoColor=ffffff)
-![](https://img.shields.io/badge/Typescript-007ACC?style=flat-square&logo=TypeScript&logoColor=ffffff)
-
-![](https://img.shields.io/badge/Creating%20with-FFF?style=flat-square)
-[![](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=ffffff)](https://www.blender.org/)
-[![](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=ffffff)](https://www.figma.com/)
-![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe-Photoshop&logoColor=ffffff)
-
-
-<br/>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h4 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h4>
+<hr>
 <br>
 <p align="center">
   <a href="https://developer.android.com" target="_blank">
@@ -254,7 +216,9 @@ Alone we can do so little; together we can do so much.
   </a>
 </p>
 <hr>
-<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<h4 align="center">🔥 Stats 🔥</h4>
+<hr>
 <br>
 <p align=center>
   <div align=center>

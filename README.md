@@ -77,7 +77,8 @@ Courage, It's not too late to build a better world.
 Alone we can do so little; together we can do so much.    
 </p>
 </div>
-<h4 align="center"> 👯Let's go together!👯 </h4>
+<h2 align="center"> 👯Let's go together!👯 </h2>
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
 <hr>
 <br>
 
@@ -238,6 +239,9 @@ Alone we can do so little; together we can do so much.
   <br>
     <img src="https://github-profile-trophy.vercel.app/?username=webpointdev&theme=monokai"/>
   </div>
+  
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=webpointdev&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true) 
+  
   <br>
 </p>
 <hr>

@@ -2,21 +2,12 @@
 ![](./profile-3d-contrib/profile-night-view.svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&center=true&vCenter=true&width=1000&height=100&lines=HELLO+I+AM+New+Dragon+Warrior.;I+AM+A+FULLSTACK+AND+BLOCKCHAIN+DEVELOPER.;FULLSTACK+AND+BLOCKCHAIN+DEVELOPMENT+IS+MY+LIFE.;WELCOME+TO+VISIT+MY+PROFILE.)](https://git.io/typing-svg)
     <h2 align="center">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="25" height="25"/>
     I WILL OFFER GOOD SOLUTION.
-  <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
     </h2>
     <br>
 <h3 align="center">⭐⭐⭐⭐⭐ 5-Stars Rating for all of my Projects.⭐⭐⭐⭐⭐</h3><br>
 <h4 align="center">👯Let's make "Success" Together!👯</h4><br>
-🤔 The way a page appears and the design of the website that users see and interact with may make your business fall or grow!
-Enthusiastic Web Developer who loves to create effective websites and work with businesses to help them grow.
+🤔 Enthusiastic Web Developer who loves to create effective websites and work with businesses to help them grow. 🤔
 <br>
 <h4 align="center">🔥 My skills 🔥</h4>
 <hr>
@@ -65,20 +56,31 @@ Enthusiastic Web Developer who loves to create effective websites and work with 
 <hr>
 <br>
 <div>
-<img align="right" alt="BITCOIN" src="https://user-images.githubusercontent.com/88071912/147696437-793d6e90-30d1-46c9-a8bb-693a24baea8e.jpg" width="50%" />
+<img align="right" alt="BITCOIN" src="https://user-images.githubusercontent.com/88071912/155071772-ee2aea54-5e30-43ee-bfdb-441225beff10.png" width="50%"/>
 
 ⚡A clean responsive code that will be well displayed in any browser and adapted to any device of any resolution, be it a phone or a tablet, or a widescreen device.<br>
+⚡Full-time developer (40+ hours per week).<br>
 ⚡Fast response and good communication skills.<br>
+⚡Professional customer service and communication at all times<br>
 ⚡well-organized/commented code.<br>
 ⚡SEO friendly, semantic markup, and load speed optimization.<br>
 ⚡Testing and cross-browser / cross-device compatibility.<br>
+⚡Unique, High quality and Professional Design<br>
+⚡100% ongoing satisfaction with your project.<br>
+⚡Provide the result with high quality.<br>
+⚡Professional customization.<br>
+⚡UNLIMITED revisions and color options based on your requirements and branding<br>
+⚡Full Icon / Image package that is used in the Mockup<br>
+⚡A full package including all the source files<br>
+⚡100% on-time delivery of the product.<br>
+⚡Update the result every day.<br>
+</div>
 <p>
-    🔭I am a responsible and purposeful person, I can easily interact with the development team, because I have experience working in a team, I can clearly follow the deadline without compromising the quality of the code.
+🔭I am a responsible and purposeful person, I can easily interact with the development team, because I have experience working in a team, I can clearly follow the deadline without compromising the quality of the code.
 Close contact with you is very important for me, to avoid misunderstandings in the development process and to save time on the long end.
 Courage, It's not too late to build a better world.
 Alone we can do so little; together we can do so much.    
 </p>
-</div>
 
 <hr/>
 
